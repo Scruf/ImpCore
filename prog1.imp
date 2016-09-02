@@ -1,5 +1,5 @@
 ;;Egor Kozitski 
-;; Time spent on assignment: 12 hours 
+;; Time spent on assignment: 32 hours 
 ;; Collaborators: 
 (define prime?helper (n divider)
 	(if (= (mod n divider) 0)
